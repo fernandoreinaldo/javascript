@@ -1,0 +1,23 @@
+Tipos de Dados do Javascript:
+
+Numbers: 5.
+
+Bigint: 77777777777n.
+
+-------------------------------
+
+String: "Fernando" - (simples ou duplas).
+
+"Fernando"[0] - (Retorna o caracter de posição zero).
+
+"Fernando".length - (Retorna o comprimento da string em forma numérica).
+
+-------------------------------
+
+Boolean: True / False.
+
+-------------------------------
+
+Null: Null - (Valor vazio que tem um valor).
+
+Undefined: Undefined - (Algo sem atribuição de valor).
