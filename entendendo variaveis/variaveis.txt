@@ -1,0 +1,13 @@
+var nome = "Fernando" - (Declara a variavel nome com o valor Fernando). 
+
+------------------
+
+var idade - (Declara a variavel idade como undefined).
+
+idade = 22 - (Define a variavel idade com o valor 22).
+
+------------------
+
+let ano = 2022 (Declara a variavel ano como 2022).
+
+ano = 2023 (Altera o valor da variavel ano para 2023).

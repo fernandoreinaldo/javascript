@@ -20,4 +20,4 @@ Boolean: True / False.
 
 Null: Null - (Valor vazio que tem um valor).
 
-Undefined: Undefined - (Algo sem atribuição de valor).
+Undefined: Undefined - (Algo sem atribuição de valor). 
