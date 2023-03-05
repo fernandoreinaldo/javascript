@@ -8,6 +8,12 @@ idade = 22 - (Define a variavel idade com o valor 22).
 
 ------------------
 
-let ano = 2022 (Declara a variavel ano como 2022).
+let ano = 2022 - (Declara a variavel ano como 2022).
 
-ano = 2023 (Altera o valor da variavel ano para 2023).
+ano = 2023 - (Altera o valor da variavel ano para 2023).
+
+------------------
+
+const mes = "Dezembro" - (Declara a variavel mes como "Dezembro").
+
+"conts" não permite com que o valor da variavel constante seja alterado.
