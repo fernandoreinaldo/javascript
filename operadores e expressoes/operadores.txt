@@ -8,4 +8,20 @@ num += 3 (Soma 3 ao valor de num), sendo assim, a variavel num passa a valer 8.
 
 num += 3 é o mesmo que num = num + 3.
 
-Isso vale para todos os operadores também.
+Isso vale para todos os operadores.
+
+------------------
+
+a = 3
+
+num++  (Incrementa 1 numero ao valor de num).
+
+num-- (Decrementa 1 numero ao valor de num).
+
+------------------
+
+"Fernando" + "Reinaldo" (Retorna a concatenação de strings = Fernando Reinaldo).
+
+------------------
+
+1 + "1" (Retorna 11, transformando o numero em string).
