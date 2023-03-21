@@ -1,0 +1,27 @@
+3 == 3 (Vai retornar "true", pois o 3 é igual a 3).
+
+3 == 4 (Vai retornar "false", pois o é diferente do que 4).
+
+- Ignora a tipagem do dado e pode comparar um número com uma string (10 == "10", vai retorner TRUE).
+
+----------------------------------------------------------
+
+10 === "10" (Vai retornar FALSE, pois compara o valor e o tipo de dado).
+
+**********************************************************
+
+10 != 5 (Retorna TRUE)
+10 != 10 (Retorna FALSE)
+
+---------------------------
+
+10 !== "10" (Retorna TRUE, pois faz a comparação de valor e o tipo de dado).
+10 != "10" (Retorna FALSE, pois não faz a comparação de tipo de dado).
+
+**********************************************************
+
+10 > 5 (Retorna TRUE)
+10 >= 10 (Retorna TRUE)
+
+10 < 20 (Returna TRUE)
+10 <= 10 (Retorna TRUE)
